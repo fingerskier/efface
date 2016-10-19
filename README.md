@@ -1,0 +1,2 @@
+# efface
+Self-modifying text
